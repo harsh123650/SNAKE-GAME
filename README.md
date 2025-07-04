@@ -21,7 +21,7 @@ This game demonstrates basic game logic, animation, keyboard controls, collision
 
 ## 📸 Screenshot
 
-> *(Optional)* Add a screenshot here (e.g. `gameplay.png`) once you've captured it:
+![Home Page](chessgame.png)
 
 
 ---
