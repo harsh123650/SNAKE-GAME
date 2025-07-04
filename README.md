@@ -21,7 +21,7 @@ This game demonstrates basic game logic, animation, keyboard controls, collision
 
 ## 📸 Screenshot
 
-![Home Page](chessgame.png)
+![Home Page](snakegame.png)
 
 
 ---
